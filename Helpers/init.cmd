@@ -6,3 +6,4 @@ cd..
 cd  ghostcn
 
 npm start
+
